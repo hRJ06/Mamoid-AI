@@ -1,5 +1,5 @@
 {
-  "name": "Maimoid AI",
+  "name": "maimoid-ai",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -59,6 +59,7 @@
     "geist": "^1.3.0",
     "input-otp": "^1.2.4",
     "lucide-react": "^0.447.0",
+    "maimoid-ai": "file:",
     "next": "^14.2.4",
     "next-themes": "^0.3.0",
     "react": "^18.3.1",
